@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarti Patel",
+    "specialization": "Cardiologist",
+    "image": "/assets/doctor1.jpg",
+    "availability": "Available Today",
+    "details": "Dr. Aarti Patel is a senior cardiologist with over 15 years of experience in diagnosing and treating heart-related conditions. Known for her patient-first approach and strong diagnostic skills.",
+    "schedule": ["2025-08-01 10:00", "2025-08-01 14:00", "2025-08-02 09:30"]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ramesh Verma",
+    "specialization": "Dermatologist",
+    "image": "/assets/doctor2.jpg",
+    "availability": "Fully Booked",
+    "details": "Dr. Ramesh Verma specializes in skin care and dermatological surgeries. He has helped thousands of patients with complex skin conditions and cosmetic procedures.",
+    "schedule": []
+  },
+  {
+    "id": 3,
+    "name": "Dr. Neha Sharma",
+    "specialization": "Pediatrician",
+    "image": "/assets/doctor3.jpg",
+    "availability": "Available Today",
+    "details": "Dr. Neha Sharma is an expert in child health and immunizations. Parents trust her for her gentle approach and expertise with children's health.",
+    "schedule": ["2025-08-01 11:00", "2025-08-02 10:00", "2025-08-02 13:00"]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sameer Khan",
+    "specialization": "Orthopedic Surgeon",
+    "image": "/assets/doctor4.jpg",
+    "availability": "On Leave",
+    "details": "Dr. Sameer Khan is a reputed orthopedic surgeon known for his advanced techniques in joint replacement and trauma surgery. Currently on a sabbatical leave.",
+    "schedule": []
+  }
+]
